@@ -1,12 +1,3 @@
-Dear ***,
-
-Thank you so much for the joy, patience, and kindess you give our children each and every day. You are truly amazing and we are so lucky to have you while our children grow from babies to bright and bold little kids! 
-
-Happy Holidays and New Year!
-Parents of Lanier Lullabies
-
-
-
 # Captioning workflow
 
 The goal of this workflow is to generate captions from a video with speech audio, and optionally burn the resulting subtitles into the video using ffmpeg.
